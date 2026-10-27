@@ -38,7 +38,7 @@ chmod +x bash-RPSGame.sh
 
 Run the game:
 
-./bash-RPSGame.sh
+./bash-RPSGame.sh 
 
 - How to Play - 
 
